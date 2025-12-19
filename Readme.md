@@ -1,14 +1,12 @@
-<!-- Profile README: Aditya Purohit | Founder-Engineer · Applied AI · Systems -->
+<!-- Profile README: Aditya Purohit -->
 
-<!-- Hero -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=800&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Aditya+Purohit;Founder-Engineer+%7C+Applied+AI+%26+Systems;RAG+%7C+Local-First+AI+%7C+Security-Driven;I+ship+production+AI+systems"
-    alt="Typing SVG"
+    alt="Typing intro"
   />
 </p>
 
-<!-- Links -->
 <p align="center">
   <a href="mailto:adityapurohit839@gmail.com">
     <img src="https://img.shields.io/badge/Email-adityapurohit839%40gmail.com-D14836?logo=gmail&logoColor=white" />
@@ -30,20 +28,22 @@ I’m an **AI & Software Engineer** with a **founder’s ownership mindset** and
 
 - I design assuming **models fail**
 - I optimize for **correctness, privacy, and constraints**
-- I build **end-to-end systems**, not isolated features
+- I build **end-to-end systems**, not toy demos
 - I value **depth over hype** and **shipping over slides**
 
-My work is influenced heavily by **research-grade environments (DRDO)** and **real-world system requirements**.
+My engineering mindset is shaped by **research-grade environments (DRDO)** and by building systems meant to survive **real-world usage**, not just presentations.
 
 ---
 
 ## 🎓 Research & Defense Exposure
 
 ### 🔬 DRDO — Defence Research and Development Organisation
-- Research-first engineering mindset  
-- High emphasis on **validation, reliability, and assumptions**
-- Experience designing under **non-negotiable correctness constraints**
-- Strong bias toward **failure-aware system design**
+- Research-first engineering culture  
+- Strong emphasis on **validation, reliability, and assumptions**
+- Exposure to **non-negotiable correctness constraints**
+- Bias toward **failure-aware and security-conscious system design**
+
+This is where I learned to **think before scaling**.
 
 ---
 
@@ -55,17 +55,17 @@ My work is influenced heavily by **research-grade environments (DRDO)** and **re
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,docker,linux,postman" />
 </p>
 
-**Core**
-- Python, C++, C, JavaScript, TypeScript  
-- Strong DSA & OOP foundations  
+### Core
+- **Languages:** Python, C++, C, JavaScript, TypeScript  
+- **Foundations:** DSA, OOP, system design  
 
-**AI / Systems**
-- LLMs, RAG pipelines, FAISS  
+### AI / Systems
+- LLMs, **RAG pipelines**, FAISS  
 - Chunking & retrieval strategies  
 - Prompt & context engineering  
 - Hallucination mitigation (design-level)
 
-**Backend / Infra**
+### Backend / Infra
 - FastAPI, REST APIs  
 - PostgreSQL, MySQL, Redis  
 - Docker, Linux, Git  
@@ -79,10 +79,10 @@ My work is influenced heavily by **research-grade environments (DRDO)** and **re
 A **privacy-preserving, offline medical document intelligence system**.
 
 **Problem**
-- Most medical AI assumes cloud access and data exposure  
-- Clinics require **offline, auditable, secure systems**
+- Most medical AI tools assume cloud access and data leakage  
+- Clinics need **offline, auditable, secure** solutions  
 
-**Solution**
+**What I Built**
 - OCR → chunking → embeddings → **encrypted FAISS**
 - AES-256-GCM encryption with per-record IVs
 - Decryption **only in memory**
@@ -94,7 +94,7 @@ A **privacy-preserving, offline medical document intelligence system**.
 - Administrative & clerical workflows only  
 - No diagnosis (by design)
 
-This is **production-thinking AI**, not a demo.
+This project is built with **production constraints**, not hype metrics.
 
 ---
 
@@ -108,26 +108,31 @@ This is **production-thinking AI**, not a demo.
 
 ---
 
-## 🏆 Signals
+## 🏆 Signals That Matter
 
 - 🏆 **Smart India Hackathon — Back-to-Back Winner**
 - 🧪 **DRDO Internship**
-- 📚 Strong background in **systems, DSA, backend design**
-- 🧠 Comfortable discussing **trade-offs and limits**
+- 📚 Strong grounding in **systems, DSA, backend architecture**
+- 🧠 Comfortable discussing **trade-offs, limits, and failure modes**
 
 ---
 
-## 📈 GitHub Proof
+## 📈 GitHub Proof (Stable)
 
 <p align="center">
   <a href="https://github.com/adityapurohit01">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityapurohit01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapurohit01&layout=compact&hide_border=true&theme=transparent"
+      alt="Top Languages"
+    />
   </a>
-  <a href="https://github.com/adityapurohit01">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapurohit01&layout=compact&hide_border=true&theme=transparent" />
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityapurohit01&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=adityapurohit01&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -148,3 +153,4 @@ Reach out if you’re:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
+
