@@ -109,19 +109,11 @@ An AI-based interviewer recommendation module that matches candidate resumes wit
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/adityapurohit01">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=adityapurohit01&show_icons=true&hide_border=true&theme=transparent"
-      height="165"
-      alt="Aditya's GitHub statistics"
-    />
+  <a href="https://github.com/adityapurohit01?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  <a href="https://github.com/adityapurohit01">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapurohit01&layout=compact&hide_border=true&theme=transparent"
-      height="165"
-      alt="Most used languages"
-    />
+  <a href="https://github.com/adityapurohit01?tab=stars">
+    <img src="https://img.shields.io/badge/View-Starred%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects" />
   </a>
 </p>
 
@@ -130,6 +122,10 @@ An AI-based interviewer recommendation module that matches candidate resumes wit
     src="https://github-readme-streak-stats.herokuapp.com?user=adityapurohit01&hide_border=true&theme=transparent"
     alt="GitHub contribution streak"
   />
+</p>
+
+<p align="center">
+  <sub>For live contribution history and language breakdown, visit the GitHub profile directly.</sub>
 </p>
 
 ---
