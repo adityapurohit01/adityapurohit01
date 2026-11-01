@@ -128,18 +128,16 @@ An AI-based interviewer recommendation module that matches candidate resumes wit
   />
 </p>
 
-### Contribution Snake
+### Developer Terminal
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/output/github-contribution-grid-snake.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
-  </picture>
+  <a href="https://github.com/adityapurohit01">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=adityapurohit01&theme=tokyonight&headerStyle=mac&hostname=aditya.dev&typingSpeed=65" alt="Animated terminal showing Aditya's GitHub profile statistics" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>The contribution animation refreshes automatically each day.</sub>
+  <sub>A terminal-inspired profile card with animated command typing and GitHub telemetry.</sub>
 </p>
 
 ---
