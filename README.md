@@ -61,6 +61,7 @@ Currently, I'm an exchange student at **National Taiwan University (NTU), Taiwan
 - 🏆 **Global CyberAI Hackathon 2025 — Winner**
 - ⭐ **Microsoft Innovate — Top 5 Finalist**
 - ⭐ **Smart BU Hackathon — Top 15 Finalist, 2×**
+- 🏅 **Student Innovation Excellence Award in AI & Smart Mobility 2025** — Times Now Education Summit & Awards, North 2025
 
 ## 📄 Research & Publication
 
