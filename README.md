@@ -128,18 +128,6 @@ An AI-based interviewer recommendation module that matches candidate resumes wit
   />
 </p>
 
-### Developer Terminal
-
-<p align="center">
-  <a href="https://github.com/adityapurohit01">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=adityapurohit01&theme=tokyonight&headerStyle=mac&hostname=aditya.dev&typingSpeed=65" alt="Animated terminal showing Aditya's GitHub profile statistics" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>A terminal-inspired profile card with animated command typing and GitHub telemetry.</sub>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
