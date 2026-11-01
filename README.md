@@ -1,6 +1,10 @@
 <!-- Aditya Purohit | GitHub Profile README -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=170&section=header&animation=twinkling" width="100%" alt="Animated blue gradient header" />
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=800&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Aditya+Purohit;Applied+AI+Engineer;Building+Agentic+AI+%26+RAG+Systems;Research-driven+%7C+Systems-minded"
     alt="Hi, I'm Aditya Purohit. Applied AI Engineer building agentic AI and RAG systems."
@@ -124,8 +128,18 @@ An AI-based interviewer recommendation module that matches candidate resumes wit
   />
 </p>
 
+### Contribution Snake
+
 <p align="center">
-  <sub>For live contribution history and language breakdown, visit the GitHub profile directly.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/output/github-contribution-grid-snake.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>The contribution animation refreshes automatically each day.</sub>
 </p>
 
 ---
@@ -144,4 +158,9 @@ I'm interested in applied AI engineering, agentic systems, research collaboratio
   <a href="https://adityapurohit.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-adityapurohit.vercel.app-111827?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:2563EB,100:0F172A&height=110&section=footer&animation=twinkling" width="100%" alt="Animated blue gradient footer" />
 </p>
