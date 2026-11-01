@@ -96,12 +96,6 @@ A textbook-focused RAG system that preserves the structure of chapters, topics, 
 ### [MIRA](https://github.com/adityapurohit01/Mira)
 An AI-based interviewer recommendation module that matches candidate resumes with interview panel expertise using NLP and relevance scoring.
 
-## 🎬 Animated Project Showcase
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityapurohit01/adityapurohit01/main/assets/project-showcase.svg" alt="Animated showcase rotating through PRAVAH, Agentic Dating, and Med-Le" width="100%" />
-</p>
-
 ## 🧰 Technical Skills
 
 <p align="center">
